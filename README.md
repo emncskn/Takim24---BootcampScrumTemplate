@@ -2,7 +2,7 @@
 
 Takım 24
 
-# Ürün İle İlgili Bilgiler
+ Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
@@ -14,25 +14,25 @@ Takım 24
 
 ## Ürün İsmi
 
---QR Yemek Uygulaması--
+PayR
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- PayR uygulamamız ile hem restaurantlara hem de müşterilerine ödeme kolaylığı sunuyoruz. Uygulamamızla birlikte QR kod ile hem sipariş verilebilecek  hemde çoklu veya tekli ödeme işlemleri kolayca yapılabilecek.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Uygulama üzerinden garsonu çağırmadan QR ile sipariş verebilme
+- Pos cihazı veya nakit para kullanmadan ödeme yapabilme
+- Seçtiğin kadar siparişi ödeyebilme seçeneği 
+- Hesabı arkadaşlarınla paylaşabilme
+- Uygulama üzerinden garsonu çağırabilme 
+- PayR uygulaması ile anlaşmalı restaurantları görüntüleyebilme
 
 ## Hedef Kitle
 
-- Kahveseverler
-- Öğrenciler
-- Sinema severler
-- Dizi severler
+- Restaurant ve cafeleri kullanan herkes
+- Kalabalık arkadaş grupları
 - 15 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
